@@ -1,16 +1,16 @@
-## Hi there 👋
+# Кто я такой?
 
-<!--
-**kabanbtw/kabanbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разумеется это первое, что вы спросите, когда попадете на эту страницу. Поэтому отвечу абсолютно честно...
 
-Here are some ideas to get you started:
+## 🐗 Обо мне
+- Я кабан (по-крайней мере это мой никнейм и состояние души)
+- Мне 30 лет👴, а значит я абсолютно точно познал жизнь (нет)
+- Я использую Arch linux 🐧 by the way (а это значит, что я ношу красивые чулочки и мечтаю о доминантной девушке, которая загонит меня под свой матриархальный каблук👠)
+- Долгое время увлекался кибер безопасностью 💻, сейчас в основном занят вайб кодингом 🤪 и более глубоким изучением разных дистрибутивов, их окружений и программами
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=your-github-kabanbtw&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-kabanbtw&color=blueviolet)
+## Связь со мной
+
+В случае надобности, пишите мне на мой email epidermis_essential@proton.me либо на мой дискорд канал https://discord.gg/QYRXFdRS 🐗🐗🐗
