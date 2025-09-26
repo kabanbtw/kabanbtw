@@ -8,7 +8,7 @@
 - Я использую Arch linux 🐧 by the way (а это значит, что я ношу красивые чулочки и мечтаю о доминантной девушке, которая загонит меня под свой матриархальный каблук👠)
 - Долгое время увлекался кибер безопасностью 💻, сейчас в основном занят вайб кодингом 🤪 и более глубоким изучением разных дистрибутивов, их окружений и программами
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabanbtw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=your-github-kabanbtw&color=blueviolet)
 ![](https://komarev.com/ghpvc/?username=your-github-kabanbtw&color=blueviolet)
 ## Связь со мной
