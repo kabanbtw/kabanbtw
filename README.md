@@ -22,4 +22,4 @@
 
 ✉️ Email: epidermis_essential@proton.me
 
-💬 Discord: сервер
+💬 Discord сервер: [заходи](https://discord.gg/ZszxAwFY)
