@@ -1,26 +1,27 @@
-# 👋 Обо мне  
+# 👋 Hi there 
 
-Привет! Я разработчик и энтузиаст Linux, увлечённый кибербезопасностью, Arch Linux и созданием удобных скриптов для автоматизации.  
-
----
-
-## ℹ️ Информация  
-- **Интересы**: 
-  - 🔐 **Кибербезопасность** – изучение инструментов и практик защиты систем.  
-  - 🐧 **Arch Linux** – настройка, оптимизация, эксперименты с окружениями (особенно GNOME).  
-  - ⚙️ **Скрипты** – автоматизация задач и разработка утилит для Linux.  
-- **Текущие проекты**: создание скриптов для Arch Linux, исследование разных дистрибутивов и окружений.  
+Hi! I'm a developer and Linux enthusiast passionate about cybersecurity, Arch Linux, and creating handy automation scripts.  
 
 ---
 
-## 📊 Статистика
+## ℹ️ About Me  
+- **Interests**:  
+  - 🔐 **Cybersecurity** – exploring tools and practices for securing systems.  
+  - 🐧 **Arch Linux** – tweaking, optimizing, and experimenting with different environments (especially GNOME).  
+  - ⚙️ **Scripting** – automating tasks and building utilities for Linux.  
+- **Current Projects**: developing scripts for Arch Linux, researching various distributions and desktop environments.  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kabanbtw&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+## 📊 Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabanbtw&show_icons=true&theme=transparent)
 
 ![](https://komarev.com/ghpvc/?username=kabanbtw&style=for-the-badge)
 
-## 📬 Контакты
+## 📬 Contacts
 
 ✉️ Email: epidermis_essential@proton.me
 
-💬 Discord сервер: [заходи](https://discord.gg/2bFvWXRS6u)
+💬 Discord server: [here](https://discord.gg/2bFvWXRS6u)
+
