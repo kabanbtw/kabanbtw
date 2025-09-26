@@ -10,7 +10,6 @@
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabanbtw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=your-github-kabanbtw&color=blueviolet)
-![](https://komarev.com/ghpvc/?username=your-github-kabanbtw&color=blueviolet)
 ## Связь со мной
 
 В случае надобности, пишите мне на мой email epidermis_essential@proton.me либо на мой дискорд канал https://discord.gg/QYRXFdRS 🐗🐗🐗
