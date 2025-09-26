@@ -16,7 +16,9 @@
 
 ## 📊 Статистика
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabanbtw&layout=compact" alt="Top Languages">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kabanbtw)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=your-github-kabanbtw&color=blueviolet)
 
 ## 📬 Контакты
 
