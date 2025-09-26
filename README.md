@@ -17,7 +17,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kabanbtw&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://komarev.com/ghpvc/?username=your-github-kabanbtw&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=kabanbtw&style=for-the-badge)
 
 ## 📬 Контакты
 
