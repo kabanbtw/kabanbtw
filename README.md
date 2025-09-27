@@ -1,6 +1,6 @@
-# 👋 Hi there 
+# 🐗 Welcome to the boar 
 
-Hi, I'm just a Linux geek who loves exploring the world of Linux distributions, writing scripts and various programs.
+I'm just a Linux freak, who loves exploring the world of Linux distributions, writing scripts and various programs.
 
 ---
 
