@@ -4,14 +4,6 @@ I'm just a Linux freak, who loves exploring the world of Linux distributions, wr
 
 ---
 
-## 📊 Statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabanbtw&show_icons=true&theme=transparent)
-
-![](https://komarev.com/ghpvc/?username=kabanbtw&style=for-the-badge)
-
----
-
 ## 📬 Contacts
 
 ✉️ Email: epidermis_essential@proton.me
